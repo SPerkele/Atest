@@ -1,0 +1,4 @@
+--first file created at Git
+select top 10 *
+from orders
+order by regdate
