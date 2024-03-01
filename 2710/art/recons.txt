@@ -1,0 +1,4 @@
+select top 10 *
+from cars
+where regdate >'20240102'
+order by recons
